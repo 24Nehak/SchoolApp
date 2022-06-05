@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/24Nehak/SchoolApp/static/css/main.20e6eba0.css",
+    "main.js": "/24Nehak/SchoolApp/static/js/main.95a05467.js",
+    "static/js/787.77fdc768.chunk.js": "/24Nehak/SchoolApp/static/js/787.77fdc768.chunk.js",
+    "static/media/SchoolImg16.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg16.e5a301fc9439bfd1ac63.jpg",
+    "static/media/Logo.png": "/24Nehak/SchoolApp/static/media/Logo.543373bcccec28a89d90.png",
+    "static/media/SchoolImg15.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg15.8bab0401b325f39b69de.jpg",
+    "static/media/SchoolImg17.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg17.d610cbb3c4330064bc34.jpg",
+    "static/media/SchoolImg18.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg18.05847f5cdf1605af807f.jpg",
+    "static/media/SchoolImg22.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg22.271beb3826c06da54340.jpg",
+    "static/media/SchoolImg24.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg24.194c9efac5090aa6ba63.jpg",
+    "static/media/SchoolImg23.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg23.b030512fb05ae0069704.jpg",
+    "static/media/SchoolImg21.jpg": "/24Nehak/SchoolApp/static/media/SchoolImg21.c2c03368287dbda3e40a.jpg",
+    "index.html": "/24Nehak/SchoolApp/index.html",
+    "main.20e6eba0.css.map": "/24Nehak/SchoolApp/static/css/main.20e6eba0.css.map",
+    "main.95a05467.js.map": "/24Nehak/SchoolApp/static/js/main.95a05467.js.map",
+    "787.77fdc768.chunk.js.map": "/24Nehak/SchoolApp/static/js/787.77fdc768.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20e6eba0.css",
+    "static/js/main.95a05467.js"
+  ]
+}
