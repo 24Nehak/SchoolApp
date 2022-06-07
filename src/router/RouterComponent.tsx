@@ -9,7 +9,7 @@ import Home from '../pages/Home/Home'
 import ProtectedRoute from './ProtectedRoute'
 
 const RouterComponent = (): ReactElement => (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
         {/* <Route path="/" element={<Login/>}/> */}
         <Route path="/" element={<DefaultLayout />}>
