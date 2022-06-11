@@ -71,12 +71,7 @@ India</p>
                 <h3 className="text-primary mb-4">Opening Hours</h3>
                 <br/>
                 <pre>
-                <div className='text-white'>Mon:	8:00 am – 4:30 am </div><br/>
-                <div className='text-white'>Tue:	8:00 am – 4:00 am</div><br/>
-                <div className='text-white'>Wed:	8:00 am – 4:00 am</div><br/>
-                <div className='text-white'>Thu:	8:00 am – 2:00 pm</div><br/>
-                <div className='text-white'>Fri:	8:00 am – 2:00 pm</div><br/>
-                <div className='text-white'>Sat:	8:00 am – 2:00 pm</div><br/>
+                <div className='text-white'>Mon - Sat:	8:00 am – 4:30 am </div><br/>
                 <div className='text-white'>Sun:	Closed</div><br />
                 </pre>
             </div>
