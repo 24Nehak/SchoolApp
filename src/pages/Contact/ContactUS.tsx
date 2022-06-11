@@ -43,14 +43,14 @@ const ContactUS = () => {
                         &nbsp;<h5>Address</h5>
                         <div className="pl-3 text-blue ">
                             
-                            <strong>Shahpur Chainpur, Uttar Pradesh 281501 India</strong>
+                            <strong style={{color:'#fff'}}>Shahpur Chainpur, Uttar Pradesh 281501 India</strong>
                         </div>
                     </div>
                     <br/>
                     <div className="d-flex">
                         <h5>Phone No</h5>
                          <div className="pl-3 text-blue">
-                            <strong>7351503504</strong>
+                            <strong style={{color:'#fff'}}>7351503504</strong>
                         </div>
                     </div>
                     <br/>
@@ -58,8 +58,8 @@ const ContactUS = () => {
                         <h5>Opening Hours</h5>
                          <div className="pl-3 text-blue">
                             
-                            <strong>Sunday - Friday:</strong>
-                            <p className="m-0">08:00 AM - 05:00 PM </p>
+                            <strong style={{color:'#fff'}}>Monday - Saturday: 08:00 AM - 03:00 PM </strong>
+                           
                         </div>
                     </div>
                 </div>
