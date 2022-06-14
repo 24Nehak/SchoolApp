@@ -1,8 +1,17 @@
 import { Box, Button, Typography } from '@mui/material'
-import React from 'react'
+import React, {useEffect, useRef} from 'react'
 import { NavLink } from 'react-router-dom'
 
+const scrollToRef = (ref:any) => window.scrollTo(0, ref.current.offsetTop)
 const Footer = () => {
+  const myRef = useRef();
+  const executeScroll = (e:any) => {
+    e.preventDefault();
+    window.scrollTo(0, 0)
+  }
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [executeScroll]);
   return (
       <>
         <div className="container-fluid bg-secondary text-white mt-5 py-5 px-sm-3 px-md-5">
