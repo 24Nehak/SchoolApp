@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="container-fluid bg-secondary text-white mt-5 py-5 px-sm-3 px-md-5">
         <div className="row pt-5">
             <div className="col-lg-3 col-md-6 mb-5">
-            <h3 className="text-primary mb-4">Quick Links</h3>
+            <h3 className="text-primary mb-4">About US</h3>
                 
                 <p>Shri Girraj Baba Saraswati higher secondary school's mission is to provide an enriching learning experience to the early learners in their first step towards education.We strive to create a tranquil, curious and challenging environment that foster’s the social, physical, emotional and cognitive development of the child.Our aim is to imbibe social, moral and cultural values in early learners and also to arouse in them the feeling of respect and concern towards the environment.</p>
                 {/* <div className="d-flex justify-content-start mt-4">
@@ -80,7 +80,7 @@ India</p>
                 <h3 className="text-primary mb-4">Opening Hours</h3>
                 <br/>
                 <pre>
-                <div className='text-white'>Mon - Sat:	8:00 am – 4:30 am </div><br/>
+                <div className='text-white'>Mon - Sat:	8:00 am – 3:00 pm </div><br/>
                 <div className='text-white'>Sun:	Closed</div><br />
                 </pre>
             </div>

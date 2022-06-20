@@ -1,5 +1,4 @@
 import { Box, Typography } from '@mui/material'
-import React from 'react'
 
 const ContactUS = () => {
   return (
@@ -40,28 +39,24 @@ const ContactUS = () => {
                 <div className="col-lg-5 mb-5">
                     <p style={{color:'#00394f'}}>Please feel free to connect with us at any point of time. We will be happy to help you.</p>
                     <div className="d-flex">
-                        &nbsp;<h5>Address</h5>
+                       <h5>Address</h5>
                         <div className="pl-3 text-blue ">
-                            
-                            <strong style={{color:'#fff'}}>Shahpur Chainpur, Uttar Pradesh 281501 India</strong>
+                        &nbsp; &nbsp; <strong style={{color:'#FFC300'}}>Shahpur Chainpur, Uttar Pradesh 281501 India</strong>
                         </div>
                     </div>
                     <br/>
                     <div className="d-flex">
                         <h5>Phone No</h5>
                          <div className="pl-3 text-blue">
-                            <strong style={{color:'#fff'}}>7351503504</strong>
+                         &nbsp; &nbsp; &nbsp;<strong style={{color:'#FFC300'}}> 7351503504</strong>
                         </div>
                     </div>
                     <br/>
-                    <div className="d-flex">
+                    <div className="d-flex" style={{ textAlign: 'left',width: 'maxContent'}}>
                         <h5>Opening Hours</h5>
-                         <div className="pl-3 text-blue">
-                            
-                            <strong style={{color:'#fff'}}>Monday - Saturday: 08:00 AM - 03:00 PM </strong>
-                           
-                        </div>
+                        <strong style={{color:'#FFC300'}}>Monday - Saturday: 08:00 AM - 03:00 PM</strong>
                     </div>
+
                 </div>
             </div>
         </div>
