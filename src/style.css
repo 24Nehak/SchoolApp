@@ -9864,3 +9864,9 @@ a.text-dark:hover, a.text-dark:focus {
   padding: 0;
   list-style-type: none;
 }
+
+@media only screen and (min-width: 768px) {
+  .mobileViewNav {
+    display:none !important
+  }
+}

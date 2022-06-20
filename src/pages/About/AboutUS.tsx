@@ -12,7 +12,7 @@ const AboutUS = () => {
     </Box>
     <Box sx={{textAlign: "center", padding: '20px'}}>
       <Box>
-        <img src={Logo}/>
+        <img src={Logo} style={{width: '300px'}}/>
       </Box>
       <br />
       <br/> 
